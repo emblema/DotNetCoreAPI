@@ -44,9 +44,9 @@ https://localhost:5001/swagger/index.html
 
 Desde esta interfaz se puede consumir el servicio.
 
-![](./screenshots/screenshot1.png)
+![](./DotNetCoreAPI/screenshots/screenshot1.png)
 
-![](./screenshots/screenshot2.png)
+![](./DotNetCoreAPI/screenshots/screenshot2.png)
 
-![](./screenshots/screenshot3.png)
+![](./DotNetCoreAPI/screenshots/screenshot3.png)
 
