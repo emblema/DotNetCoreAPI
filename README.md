@@ -44,9 +44,9 @@ https://localhost:5001/swagger/index.html
 
 Desde esta interfaz se puede consumir el servicio.
 
-![](screenshot1.png)
+![](screenshots/screenshot1.png)
 
-![](screenshot2.png)
+![](screenshots/screenshot2.png)
 
-![](screenshot3.png)
+![](screenshots/screenshot3.png)
 
